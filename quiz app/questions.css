@@ -1,0 +1,36 @@
+#main {
+    width:100vw;
+    height:100vh;
+    background: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 3vw;
+    color:rgb(4, 4, 54);
+    }
+
+ #header {
+    text-align: left;
+    font-size: 2vw;
+ }   
+ form {
+    text-align: left;
+    font-size: 1vw;
+    border-spacing: 2vh;
+    color:black;
+    font-weight: normal;
+ }
+ button {
+    background: rgb(94, 136, 198);
+    color:white;
+    width:7vw;
+    height:4vh;
+    text-align: center;
+    font-size: 1.5vw;
+    border:none;
+    border-radius: 5px;
+}
+#q {
+ margin-left:10%;
+ margin-right:auto;
+}
